@@ -261,7 +261,7 @@
 <a id="android"></a>
 
 #### Jar 
-#### Android Pulgin :[Download](https://github.com/pass4u/IndieStar/tree/master/unity/aos)
+#### Android Pulgin :[Download](https://github.com/supertreegames/SuperTree/tree/master/unity/aos)
 
 
 ##### Init
@@ -317,7 +317,7 @@
 
 <a id="ios"></a>
 #### iOS 라이브러리 (.a) 
-#### iOS Plugin :[Download](https://github.com/pass4u/IndieStar/tree/master/unity/ios)
+#### iOS Plugin :[Download](https://github.com/supertreegames/SuperTree/tree/master/unity/ios)
 
 ##### Init
     (void)IndieStarStart:(NSString*)_app_id indiestar_id:(NSString*)_indiestar_id package_name:(NSString*)_package_name
